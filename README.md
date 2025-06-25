@@ -34,5 +34,9 @@ Try Productivity Manager today and discover a better way to manage your to-do li
 
 *OUTPUT*
 
+![Image](https://github.com/user-attachments/assets/7668832e-69af-4df3-9ecb-df12eea6d6e7)
+![Image](https://github.com/user-attachments/assets/91e5f36f-df34-4fdf-b017-a1561b9ff6e8)
+![Image](https://github.com/user-attachments/assets/8a444927-ca88-4b45-87ba-1aa9c08f2249)
+
 
 
