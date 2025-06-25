@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "Productivity Manager",
+  "version": "1.0",
+  "description": "A simple productivity manager to keep track of tasks.",
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "permissions": ["storage"],
+  "icons": {
+    "48": "icon48.png"
+  }
+}
